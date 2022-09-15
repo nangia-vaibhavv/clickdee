@@ -14,3 +14,9 @@ Future statics to be performed:
 2) Adding bootstrap class to make css file readable
 3) Making it secure by implementing user authentication
 4) Design related issues to be fixed.
+
+
+
+Here is th hosted netlify URL
+
+https://react-multiform-jsontosheet.netlify.app/
